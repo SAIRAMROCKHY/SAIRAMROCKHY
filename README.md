@@ -3,7 +3,7 @@
 
 <body style="background-color: #121212; color: #ffffff;">
 <a href="https://github.com/sairamrockhy#gh-dark-mode-only">
-</a>
+
 </svg>
 <!-- Your GitHub profile content goes here -->
 
@@ -53,6 +53,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairamrockhy&show_icons=true&locale=en" alt="sairamrockhy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamrockhy&" alt="sairamrockhy" /></p>
-
+</a>
 </body>
 </html>
