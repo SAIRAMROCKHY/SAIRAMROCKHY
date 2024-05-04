@@ -38,10 +38,13 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+- 🔭 I’m currently working on <span style="color: #90caf9;">LLM based projects</span>
+
+- 🌱 I’m currently learning <span style="color: #90caf9;">LLM and its variants</span>
+
+- 📫 How to reach me <a href="mailto:SAIRAM1582003@gmail.com" style="color: #90caf9;">SAIRAM1582003@gmail.com</a>
+
+ 💬 &emsp; Ask me about anything [here](https://github.com/sairamrockhy/sairamrockhy/issues)
 
 </p>
 
