@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm PVS SAIRAM</h1>
 <h3 align="center">Enthusiastic and dedicated developer of AI&ML</h3>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ3OTgzNzcsIm5iZiI6MTcxNDc5ODA3NywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA0VDA0NDc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxMzJjMmJjNGUyNDk3OTdhMTBmMjRkZDMxY2M3ZWQ3NzY0NDRiOGQxM2RiMzdiMjQyZGQ0MDc0NzFjN2Y1YjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4leApRJDdaV086U35sRi7FX1KLLhlCEvr6pMI64Uij8">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ3OTgzNzcsIm5iZiI6MTcxNDc5ODA3NywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA0VDA0NDc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxMzJjMmJjNGUyNDk3OTdhMTBmMjRkZDMxY2M3ZWQ3NzY0NDRiOGQxM2RiMzdiMjQyZGQ0MDc0NzFjN2Y1YjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4leApRJDdaV086U35sRi7FX1KLLhlCEvr6pMI64Uij8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairamrockhy&label=Profile%20views&color=0e75b6&style=flat" alt="sairamrockhy" /> </p>
 
 - 🔭 I’m currently working on **LLM based projects**
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pappusairam3" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="pappusairam3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pvs-sairam-345b27159" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="pvs-sairam-345b27159" height="30" width="40" /></a>
+<a href="https://twitter.com/pappusairam3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pappusairam3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pvs-sairam-345b27159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pvs-sairam-345b27159" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
