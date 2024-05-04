@@ -2,11 +2,7 @@
 <html lang="en">
 
 <body style="background-color: #121212; color: #ffffff;">
-<a href="https://github.com/itaditya#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=PerformanceSandBox&theme=dark#gh-dark-mode-only" alt="My GitHub Stats" />
-</a>
-<a href="https://github.com/itaditya#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=PerformanceSandBox&theme=default#gh-light-mode-only" alt="My GitHub Stats" />
+<a href="https://github.com/sairamrockhy#gh-dark-mode-only">
 </a>
 </svg>
 <!-- Your GitHub profile content goes here -->
