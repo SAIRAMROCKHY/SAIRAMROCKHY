@@ -1,23 +1,13 @@
-name: Generate Animation
+name: Generate and Push SVG
 
 on:
   # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
 
-  # Manually run the job at any time
-  workflow_dispatch:
-
-  # Run on every push to the main branch
-  push:
-    branches:
-      - main
-
 jobs:
-  generate:
+  generate_and_push:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -34,10 +24,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "sairamrockhy"
-          git config --global user.email "SAIRAM1582003@gmail.com"
-          git add dist/  # Add all files in the dist/ directory
-          git commit -m "Update SVG files"
+          git diff --cached --exit-code || git commit -m "Update SVG files"
           git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
