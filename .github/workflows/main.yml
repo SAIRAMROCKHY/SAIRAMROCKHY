@@ -32,13 +32,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          - name: Commit and push changes
-            run: |
-              git config --global user.name "sairamrockhy"
-              git config --global user.email "SAIRAM1582003@gmail.com"
-              git add dist/  # Add all files in the dist/ directory
-              git commit -m "Update SVG files"
-              git push origin HEAD:main
-            env:
-              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "sairamrockhy"
+          git config --global user.email "SAIRAM1582003@gmail.com"
+          git add dist/  # Add all files in the dist/ directory
+          git commit -m "Update SVG files"
+          git push origin HEAD:main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
