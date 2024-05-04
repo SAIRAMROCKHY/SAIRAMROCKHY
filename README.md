@@ -24,7 +24,7 @@
 <a href="https://auth.geeksforgeeks.org/user/sairam18v8q" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
-<a href="[https://www.hackerrank.com/sairamrockhy013](https://www.hackerrank.com/sairamrockhy013)" target="_blank">
+<a href="(https://www.hackerrank.com/sairamrockhy013)" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </a>
 
