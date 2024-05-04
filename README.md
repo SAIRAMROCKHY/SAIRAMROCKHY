@@ -36,48 +36,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamrockhy&" alt="sairamrockhy" /></p>
 
 
-<style>
-/* Set card background to dark */
-.profile-timeline-card, .Box-row, .profile-timeline-year {
-    background-color: #1f1f1f; /* Adjust the color code to your preference */
-}
-
-/* Set card text to light */
-.text-gray-dark, .text-gray-light, .Link--primary {
-    color: #ffffff; /* Adjust the color code to your preference */
-}
-
-/* Set link color to a lighter shade */
-.Link--primary {
-    color: #90caf9; /* Adjust the color code to your preference */
-}
-
-/* Set header background to dark */
-.Header {
-    background-color: #333333; /* Adjust the color code to your preference */
-}
-
-/* Set header text color to light */
-.text-white {
-    color: #ffffff; /* Adjust the color code to your preference */
-}
-
-/* Set button background and text color */
-.btn, .btn-primary, .btn-info {
-    background-color: #424242; /* Adjust the color code to your preference */
-    color: #ffffff; /* Adjust the color code to your preference */
-}
-
-/* Set footer background to dark */
-.footer {
-    background-color: #333333; /* Adjust the color code to your preference */
-}
-
-/* Set footer text color to light */
-.footer-heading, .footer-gray {
-    color: #ffffff; /* Adjust the color code to your preference */
-}
-</style>
 
 </body>
 </html>
