@@ -1,46 +1,60 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <body style="background-color: #121212; color: #ffffff;">
 
-
 <!-- Your GitHub profile content goes here -->
 
 <img src="https://github.com/SAIRAMROCKHY/SAIRAMROCKHY/blob/main/github-header-image.png" alt="Header" style="width: 100%;">
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairamrockhy&label=Profile%20views&color=0e75b6&style=flat" alt="sairamrockhy" /> </p>
 
 <p align="center">
  <a href="https://linkedin.com/in/pvs-sairam-345b27159" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ </a>
  <a href="https://twitter.com/pappusairam3" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/sairamrockhy" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
  </a> 
-<a href="https://auth.geeksforgeeks.org/user/sairam18v8q" target="_blank">
+ <a href="https://auth.geeksforgeeks.org/user/sairam18v8q" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
-<a href="https://www.hackerrank.com/sairamrockhy013" target="_blank">
+ </a>
+ <a href="https://www.hackerrank.com/sairamrockhy013" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-
-
+ </a>
 </p>
 <br />
 
 ## About me
 - 🔭 I’m currently working on **LLM based projects**
-
 - 🌱 I’m currently learning **LLM and its variants**
-
 - 📫 How to reach me **SAIRAM1582003@gmail.com**
+
 <br/>
-<br/>
+
+## Skills and Interests
+
+### Skills
+- **Programming Languages**: Java, Python, C
+- **Front-End Frameworks**: React.js, Angular.js, Vue.js, Next.js, Bootstrap, Tailwind CSS
+- **Back-End Frameworks**: Node.js, Express.js, Spring Boot (Currently learning)
+- **UI/UX Tools**: Figma, Adobe XD, Canva, Webflow, Spline
+- **AI & Deep Learning**: TensorFlow, PyTorch, Neural Networks, Deep Learning
+- **Machine Learning**: Model Development, Optimization, Deployment
+- **Generative AI**: LLM, RAG, Finetuning
+- **Cloud and Databases**: Oracle SQL, MongoDB, AWS
+- **Soft Skills**: Excellent communication, teamwork, and time management skills
+
+### Interests
+- AI Research
+- Machine Learning
+- Deep Learning
+- Computer Vision and Image Processing (CVIP)
+- Spring Boot
+
 <br/>
 
 ## Use To Code
@@ -104,6 +118,7 @@
   <br/>
 </a>
 
-
 ![SAIRAMROCKHY's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sairamrockhy&custom_title=SAIRAM%20ROCKHY's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+</body>
+</html>
