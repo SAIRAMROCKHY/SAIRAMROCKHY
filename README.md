@@ -30,7 +30,7 @@
 
 ## About Me
 
-Hello! I’m an **AI Full Stack Developer** and tech enthusiast navigating the dynamic world of programming and innovation. With expertise in languages like **Java, Python, and C**, I transform ideas into code that drives change.
+**AI Full Stack Developer** 
 
 💻 **Front-End Magic**: **React.js, Angular.js, Vue.js, and Next.js**, as well as **Bootstrap** and **Tailwind CSS**.
 
@@ -38,17 +38,27 @@ Hello! I’m an **AI Full Stack Developer** and tech enthusiast navigating the d
 
 🎨 **UI/UX Expertise**: **Figma, Adobe XD, Canva, Webflow,** and **Spline**.
 
-🤖 **AI & Deep Learning Explorer**: **TensorFlow** and **PyTorch**,**Generative AI**,**LLMs** and **Fine-Tuning**
+🤖 **AI & Deep Learning Explorer**: **TensorFlow** and **PyTorch**, **Generative AI**, **LLMs**, and **Fine-Tuning**.
 
 ☁️ **Cloud & Databases**: **AWS, Oracle SQL,** and **MongoDB**.
 
-🤝🌍 **AI Research**, **Machine Learning** and **Computer Vision**
+🤝🌍 **AI Research**, **Machine Learning** and **Computer Vision**.
 
+## Contact Me
+<p align="center">
+  <a href="mailto:SAIRAM1582003@gmail.com">
+    <button style="padding: 10px 20px; background-color: #0077B5; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      Contact Me
+    </button>
+  </a>
+  <a href="https://drive.google.com/file/d/1QDAMazzFf5eam7W3T0W1occr-9tM_R8d/view?usp=sharing" target="_blank">
+    <button style="padding: 10px 20px; background-color: #FF5722; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      Resume
+    </button>
+  </a>
+</p>
 
 ## Use To Code
-
-## Skills
-
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -75,7 +85,6 @@ Hello! I’m an **AI Full Stack Developer** and tech enthusiast navigating the d
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 
 <br/>
 
