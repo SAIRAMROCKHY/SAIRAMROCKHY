@@ -52,7 +52,7 @@
   <a href="mailto:SAIRAM1582003@gmail.com">
     <img src="https://img.shields.io/badge/Mail%20Me-0077B5?style=for-the-badge&logo=mail&logoColor=white" alt="Contact Me"/>
   </a>
-  <a href="https://drive.google.com/file/d/1QDAMazzFf5eam7W3T0W1occr-9tM_R8d/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1QDAMazzFf5eam7W3T0W1occr-9tM_R8d/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=resume&logoColor=white" alt="Resume"/>
   </a>
 </p>
