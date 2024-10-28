@@ -7,7 +7,7 @@
 
 <!-- Your GitHub profile content goes here -->
 
-<img src="https://github.com/SAIRAMROCKHY/SAIRAMROCKHY/blob/main/github-header-image%20(2).png" alt="Header" style="width: 100%;">
+<img src="https://github.com/SAIRAMROCKHY/SAIRAMROCKHY/blob/main/github-header-image.png" alt="Header" style="width: 100%;">
 
 
 
