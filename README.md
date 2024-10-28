@@ -1,7 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<body style="background-color: #121212; color: #ffffff;">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <title>Your GitHub Profile</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+        }
+        .button-container {
+            margin-top: 20px;
+        }
+        .btn-contact {
+            background-color: #0077B5;
+            border: none;
+        }
+        .btn-resume {
+            background-color: #FF5722;
+            border: none;
+        }
+        .btn-contact:hover, .btn-resume:hover {
+            filter: brightness(0.9);
+        }
+    </style>
+</head>
+<body>
 
 <!-- Your GitHub profile content goes here -->
 
@@ -34,7 +59,7 @@
 
 💻 **Front-End Magic**: **React.js, Angular.js, Vue.js, and Next.js**, as well as **Bootstrap** and **Tailwind CSS**.
 
-⚙️ **Back-End Power**:**Node.js** with **Express.js** and **Spring Boot**. My current focus? Mastering Spring Boot to deepen my backend prowess.
+⚙️ **Back-End Power**: **Node.js** with **Express.js** and **Spring Boot**. My current focus? Mastering Spring Boot to deepen my backend prowess.
 
 🎨 **UI/UX Expertise**: **Figma, Adobe XD, Canva, Webflow,** and **Spline**.
 
