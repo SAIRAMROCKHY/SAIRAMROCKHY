@@ -3,26 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <title>Your GitHub Profile</title>
     <style>
         body {
             background-color: #121212;
             color: #ffffff;
-        }
-        .button-container {
-            margin-top: 20px;
-        }
-        .btn-contact {
-            background-color: #0077B5;
-            border: none;
-        }
-        .btn-resume {
-            background-color: #FF5722;
-            border: none;
-        }
-        .btn-contact:hover, .btn-resume:hover {
-            filter: brightness(0.9);
         }
     </style>
 </head>
@@ -70,14 +55,14 @@
 🤝🌍 **AI Research**, **Machine Learning** and **Computer Vision**.
 
 ## Contact Me
-<div class="button-container text-center">
-  <a href="mailto:SAIRAM1582003@gmail.com" class="btn btn-contact btn-lg">
-    Contact Me
+<p align="center">
+  <a href="mailto:SAIRAM1582003@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-0077B5?style=for-the-badge&logo=mail&logoColor=white" alt="Contact Me"/>
   </a>
-  <a href="https://drive.google.com/file/d/1QDAMazzFf5eam7W3T0W1occr-9tM_R8d/view?usp=sharing" target="_blank" class="btn btn-resume btn-lg">
-    Resume
+  <a href="https://drive.google.com/file/d/1QDAMazzFf5eam7W3T0W1occr-9tM_R8d/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=resume&logoColor=white" alt="Resume"/>
   </a>
-</div>
+</p>
 
 ## Use To Code
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
