@@ -32,71 +32,50 @@
 
 Hello! I’m an **AI Full Stack Developer** and tech enthusiast navigating the dynamic world of programming and innovation. With expertise in languages like **Java, Python, and C**, I transform ideas into code that drives change.
 
-💻 **Front-End Magic**: Crafting seamless user experiences with **React.js, Angular.js, Vue.js, and Next.js**, as well as **Bootstrap** and **Tailwind CSS** is where my creativity shines. I love turning complex designs into intuitive interfaces!
+💻 **Front-End Magic**: **React.js, Angular.js, Vue.js, and Next.js**, as well as **Bootstrap** and **Tailwind CSS**.
 
-⚙️ **Back-End Power**: Diving into **Node.js** with **Express.js** and **Spring Boot**, I build scalable systems that power modern applications. My current focus? Mastering Spring Boot to deepen my backend prowess.
+⚙️ **Back-End Power**:**Node.js** with **Express.js** and **Spring Boot**. My current focus? Mastering Spring Boot to deepen my backend prowess.
 
-🎨 **UI/UX Expertise**: Crafting intuitive designs from wireframes to prototypes using **Figma, Adobe XD, Canva, Webflow,** and **Spline**. Elevating user satisfaction with engaging, responsive interfaces!
+🎨 **UI/UX Expertise**: **Figma, Adobe XD, Canva, Webflow,** and **Spline**.
 
-🤖 **AI & Deep Learning Explorer**: My passion for AI fuels my curiosity. With hands-on experience in **TensorFlow** and **PyTorch**, I develop models that push the boundaries of technology. **Generative AI** fascinates me—exploring **LLMs** and fine-tuning them is an exciting journey!
+🤖 **AI & Deep Learning Explorer**: **TensorFlow** and **PyTorch**,**Generative AI**,**LLMs** and **Fine-Tuning**
 
-☁️ **Cloud & Databases**: Proficient in **AWS, Oracle SQL,** and **MongoDB**, I design robust, scalable solutions that stand the test of time.
+☁️ **Cloud & Databases**: **AWS, Oracle SQL,** and **MongoDB**.
 
-🤝 **Collaborative Spirit**: I believe in the power of teamwork and effective communication. My soft skills help me navigate dynamic environments, ensuring that projects succeed while fostering a strong sense of community.
+🤝🌍 **AI Research**, **Machine Learning** and **Computer Vision**
 
-🌍 I’m always eager to connect with fellow tech enthusiasts and explore opportunities in **AI Research, Machine Learning,** and **Computer Vision**. Let’s innovate and shape the future together!
-
-
-<br/>
-
-## Skills and Interests
-
-### Skills
-- **Programming Languages**: Java, Python, C
-- **Front-End Frameworks**: React.js, Angular.js, Vue.js, Next.js, Bootstrap, Tailwind CSS
-- **Back-End Frameworks**: Node.js, Express.js, Spring Boot (Currently learning)
-- **UI/UX Tools**: Figma, Adobe XD, Canva, Webflow, Spline
-- **AI & Deep Learning**: TensorFlow, PyTorch, Neural Networks, Deep Learning
-- **Machine Learning**: Model Development, Optimization, Deployment
-- **Generative AI**: LLM, RAG, Finetuning
-- **Cloud and Databases**: Oracle SQL, MongoDB, AWS
-- **Soft Skills**: Excellent communication, teamwork, and time management skills
-
-### Interests
-- AI Research
-- Machine Learning
-- Deep Learning
-- Computer Vision and Image Processing (CVIP)
-- Spring Boot
-
-<br/>
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Skills
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-00B47E?style=for-the-badge&logo=webflow&logoColor=white)
+![Spline](https://img.shields.io/badge/Spline-FF7B45?style=for-the-badge&logo=spline&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 <br/>
 
