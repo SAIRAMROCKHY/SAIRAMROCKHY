@@ -45,18 +45,14 @@
 🤝🌍 **AI Research**, **Machine Learning** and **Computer Vision**.
 
 ## Contact Me
-<p align="center">
-  <a href="mailto:SAIRAM1582003@gmail.com">
-    <button style="padding: 10px 20px; background-color: #0077B5; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Contact Me
-    </button>
+<div class="button-container text-center">
+  <a href="mailto:SAIRAM1582003@gmail.com" class="btn btn-contact btn-lg">
+    Contact Me
   </a>
-  <a href="https://drive.google.com/file/d/1QDAMazzFf5eam7W3T0W1occr-9tM_R8d/view?usp=sharing" target="_blank">
-    <button style="padding: 10px 20px; background-color: #FF5722; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Resume
-    </button>
+  <a href="https://drive.google.com/file/d/1QDAMazzFf5eam7W3T0W1occr-9tM_R8d/view?usp=sharing" target="_blank" class="btn btn-resume btn-lg">
+    Resume
   </a>
-</p>
+</div>
 
 ## Use To Code
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
