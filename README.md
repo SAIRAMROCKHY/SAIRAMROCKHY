@@ -28,10 +28,24 @@
 </p>
 <br />
 
-## About me
-- 🔭 I’m currently working on **LLM based projects**
-- 🌱 I’m currently learning **LLM and its variants**
-- 📫 How to reach me **SAIRAM1582003@gmail.com**
+## About Me
+
+Hello! I’m an **AI Full Stack Developer** and tech enthusiast navigating the dynamic world of programming and innovation. With expertise in languages like **Java, Python, and C**, I transform ideas into code that drives change.
+
+💻 **Front-End Magic**: Crafting seamless user experiences with **React.js, Angular.js, Vue.js, and Next.js**, as well as **Bootstrap** and **Tailwind CSS** is where my creativity shines. I love turning complex designs into intuitive interfaces!
+
+⚙️ **Back-End Power**: Diving into **Node.js** with **Express.js** and **Spring Boot**, I build scalable systems that power modern applications. My current focus? Mastering Spring Boot to deepen my backend prowess.
+
+🎨 **UI/UX Expertise**: Crafting intuitive designs from wireframes to prototypes using **Figma, Adobe XD, Canva, Webflow,** and **Spline**. Elevating user satisfaction with engaging, responsive interfaces!
+
+🤖 **AI & Deep Learning Explorer**: My passion for AI fuels my curiosity. With hands-on experience in **TensorFlow** and **PyTorch**, I develop models that push the boundaries of technology. **Generative AI** fascinates me—exploring **LLMs** and fine-tuning them is an exciting journey!
+
+☁️ **Cloud & Databases**: Proficient in **AWS, Oracle SQL,** and **MongoDB**, I design robust, scalable solutions that stand the test of time.
+
+🤝 **Collaborative Spirit**: I believe in the power of teamwork and effective communication. My soft skills help me navigate dynamic environments, ensuring that projects succeed while fostering a strong sense of community.
+
+🌍 I’m always eager to connect with fellow tech enthusiasts and explore opportunities in **AI Research, Machine Learning,** and **Computer Vision**. Let’s innovate and shape the future together!
+
 
 <br/>
 
