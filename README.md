@@ -15,7 +15,7 @@
 
 <br />
 
-## 🧑‍💻 About Me
+## About Me
 
 🛠️ Skilled in designing scalable data pipelines using tools like **Apache Spark**, **Apache Kafka**, **Delta Lake**, and **StreamSets**.
 
@@ -42,7 +42,7 @@
     </a>
 </p>
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -65,10 +65,10 @@
 
 <br/>
 
-## 🚀 Featured Data Engineering Projects
+## Featured Data Engineering Projects
 Coming soon...
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairamrockhy&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
