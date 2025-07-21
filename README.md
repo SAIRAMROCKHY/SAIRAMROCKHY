@@ -57,7 +57,7 @@ Innovative Data Engineer with hands-on experience in building scalable, cloud-na
 ## 🚀 Featured Data Engineering Projects
 Coming soon...
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairamrockhy&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
@@ -67,7 +67,7 @@ Coming soon...
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sairamrockhy&theme=radical" alt="GitHub Summary"/>
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sairamrockhy&custom_title=SAIRAMROCKHY%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sairamrockhy&custom_title=SAIRAMROCKHY%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true) -->
 
 </body>
 </html>
