@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-Data Engineer with hands-on experience in building scalable, cloud-native data pipelines using tools like **Azure Data Factory**, **Databricks**, **Apache Spark**, and **Kafka**. Skilled in optimizing **ETL workflows**, enabling real-time data streaming, and managing **large-scale data integration**. Experienced in **MLOps** with **MLflow**, and known for delivering high-performance solutions in collaborative, cross-functional environments.
+Innovative Data Engineer with hands-on experience in building scalable, cloud-native data pipelines using tools like **Azure Data Factory**, **Databricks**, **Apache Spark**, and **Kafka**. Skilled in optimizing **ETL workflows**, enabling real-time data streaming, and managing **large-scale data integration**. Experienced in **MLOps** with **MLflow**, and known for delivering high-performance solutions in collaborative, cross-functional environments.
 
 
 
