@@ -65,13 +65,8 @@
 
 <br/>
 
----
-
 ## 🚀 Featured Data Engineering Projects
-
 Coming soon...
-
----
 
 ## 📊 GitHub Stats
 
