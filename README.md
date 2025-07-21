@@ -15,24 +15,17 @@
 
 <br />
 
-## About Me
+## 🧑‍💻 About Me
 
-🛠️ Skilled in designing scalable data pipelines using tools like **Apache Spark**, **Apache Kafka**, **Delta Lake**, and **StreamSets**.
+- Skilled in designing scalable data pipelines using tools like **Apache Spark**, **Apache Kafka**, **Delta Lake**, and **StreamSets**.
+- Hands-on experience with cloud platforms, especially **Azure Data Factory**, **Azure Databricks**, and **Azure Synapse Analytics**.
+- Proficient in **Python**, **SQL**, and **Java**, with practical experience in building **ETL pipelines**, **real-time data streaming**, and **cloud data integration**.
+- Familiar with **DevOps & MLOps** tools like **Docker**, **Azure DevOps**, **Kubernetes**, and **MLflow**.
+- Strong interest in **real-time analytics**, **data reliability engineering**, and **automating data workflows**.
+- Currently exploring **Microsoft Fabric** and **Apache Airflow** to enhance orchestration and data transformation capabilities.
+- Proven ability to work on **cross-functional teams**, combining technical expertise with collaboration and communication.
 
-☁️ Hands-on experience with cloud platforms, especially **Azure Data Factory**, **Azure Databricks**, and **Azure Synapse Analytics**.
-
-💻 Proficient in **Python**, **SQL**, and **Java**, with practical experience in building **ETL pipelines**, **real-time data streaming**, and **cloud data integration**.
-
-📦 Familiar with **DevOps & MLOps** tools like **Docker**, **Azure DevOps**, **Kubernetes**, and **MLflow**.
-
-🔍 Strong interest in **real-time analytics**, **data reliability engineering**, and **automating data workflows**.
-
-🚀 Currently exploring **Microsoft Fabric** and **Apache Airflow** to enhance orchestration and data transformation capabilities.
-
-🤝 Proven ability to work on **cross-functional teams**, combining technical expertise with collaboration and communication.
-
-
-## Contact Me
+## 📫 Contact Me
 <p align="center">
     <a href="mailto:SAIRAM1582003@gmail.com">
         <img src="https://img.shields.io/badge/Mail%20Me-0077B5?style=for-the-badge&logo=mail&logoColor=white" alt="Contact Me"/>
@@ -42,7 +35,7 @@
     </a>
 </p>
 
-## Skills & Tools
+## 🛠️ Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -65,10 +58,10 @@
 
 <br/>
 
-## Featured Data Engineering Projects
+## 🚀 Featured Data Engineering Projects
 Coming soon...
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairamrockhy&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
