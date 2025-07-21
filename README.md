@@ -17,13 +17,16 @@
 
 ## 🧑‍💻 About Me
 
-- Skilled in designing scalable data pipelines using tools like **Apache Spark**, **Apache Kafka**, **Delta Lake**, and **StreamSets**.
-- Hands-on experience with cloud platforms, especially **Azure Data Factory**, **Azure Databricks**, and **Azure Synapse Analytics**.
-- Proficient in **Python**, **SQL**, and **Java**, with practical experience in building **ETL pipelines**, **real-time data streaming**, and **cloud data integration**.
-- Familiar with **DevOps & MLOps** tools like **Docker**, **Azure DevOps**, **Kubernetes**, and **MLflow**.
-- Strong interest in **real-time analytics**, **data reliability engineering**, and **automating data workflows**.
-- Currently exploring **Microsoft Fabric** and **Apache Airflow** to enhance orchestration and data transformation capabilities.
-- Proven ability to work on **cross-functional teams**, combining technical expertise with collaboration and communication.
+- Passionate Data Engineer skilled in designing and implementing scalable data pipelines using **Azure Data Factory**, **Databricks**, **Delta Lake**, **Apache Spark**, and **Apache Kafka**.
+
+- Proven track record in optimizing **ETL workflows** and **real-time data streaming**, achieving up to **60% reduction in processing time** and **40% improvement in data quality**.
+
+- Expertise in advanced **PySpark** techniques to efficiently process **10M+ daily records**, improving pipeline performance by **40%**.
+
+- Experienced in deploying and maintaining **MLOps pipelines** with **MLflow** and **Databricks Model Serving** for seamless **model versioning** and **production readiness**.
+
+- Proven ability to work on **cross-functional teams**, blending deep technical skills with clear communication and collaborative execution.
+
 
 ## 📫 Contact Me
 <p align="center">
