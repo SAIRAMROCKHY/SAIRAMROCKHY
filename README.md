@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<img src="https://raw.githubusercontent.com/SAIRAMROCKHY/SAIRAMROCKHY/main/github-header-image.png" alt="Header" style="width: 100%;">
+<img src="https://github.com/SAIRAMROCKHY/SAIRAMROCKHY/blob/main/github-header-image.png" alt="Header" style="width: 100%;">
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sairamrockhy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
