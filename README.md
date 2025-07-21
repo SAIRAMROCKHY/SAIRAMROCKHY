@@ -12,41 +12,27 @@
     <img src="https://komarev.com/ghpvc/?username=sairamrockhy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-    <a href="https://linkedin.com/in/pvs-sairam-345b27159" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/pappusairam3" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://instagram.com/sairamrockhy" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a> 
-    <a href="https://auth.geeksforgeeks.org/user/sairam18v8q" target="_blank">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-    </a>
-    <a href="https://www.hackerrank.com/sairamrockhy013" target="_blank">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-    </a>
-</p>
 
 <br />
 
 ## About Me
 
-**AI Full Stack Developer** 
+## 🧑‍💻 About Me
 
-💻 **Front-End Magic**: **React.js, Angular.js, Vue.js, Next.js**, **Bootstrap**, and **Tailwind CSS**.
+🛠️ Skilled in designing scalable data pipelines using tools like **Apache Spark**, **Apache Kafka**, **Delta Lake**, and **StreamSets**.
 
-⚙️ **Back-End Power**: **Node.js** with **Express.js** and **Spring Boot**. My current focus? Mastering Spring Boot to deepen my backend prowess.
+☁️ Hands-on experience with cloud platforms, especially **Azure Data Factory**, **Azure Databricks**, and **Azure Synapse Analytics**.
 
-🎨 **UI/UX Expertise**: **Figma, Adobe XD, Canva, Webflow,** and **Spline**.
+💻 Proficient in **Python**, **SQL**, and **Java**, with practical experience in building **ETL pipelines**, **real-time data streaming**, and **cloud data integration**.
 
-🤖 **AI & Deep Learning Explorer**: **TensorFlow**, **PyTorch**, **Generative AI**, **LLMs**, and **Fine-Tuning**.
+📦 Familiar with **DevOps & MLOps** tools like **Docker**, **Azure DevOps**, **Kubernetes**, and **MLflow**.
 
-☁️ **Cloud & Databases**: **AWS**, **Oracle SQL**, and **MongoDB**.
+🔍 Strong interest in **real-time analytics**, **data reliability engineering**, and **automating data workflows**.
 
-🤝🌍 **AI Research**, **Machine Learning**, and **Computer Vision**.
+🚀 Currently exploring **Microsoft Fabric** and **Apache Airflow** to enhance orchestration and data transformation capabilities.
+
+🤝 Proven ability to work on **cross-functional teams**, combining technical expertise with collaboration and communication.
+
 
 ## Contact Me
 <p align="center">
