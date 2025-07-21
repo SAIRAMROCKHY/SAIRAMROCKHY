@@ -44,22 +44,22 @@
 
 ## 🛠️ Skills & Tools
 
- ## Languages & Technologies
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Shell Scripting](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-  ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-  ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-4DB33D?style=for-the-badge&logo=databricks&logoColor=white)
-  ![StreamSets](https://img.shields.io/badge/StreamSets-008AD7?style=for-the-badge&logoColor=white)
-  ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-  ![Azure Synapse Analytics](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-  ![MLflow](https://img.shields.io/badge/MLflow-0194f0?style=for-the-badge&logo=mlflow&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-4DB33D?style=for-the-badge&logo=databricks&logoColor=white)
+![StreamSets](https://img.shields.io/badge/StreamSets-008AD7?style=for-the-badge&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Synapse Analytics](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194f0?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 
 <br/>
