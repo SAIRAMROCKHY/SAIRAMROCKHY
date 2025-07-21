@@ -21,7 +21,7 @@
 
 - Proven track record in optimizing **ETL workflows** and **real-time data streaming**, achieving up to **60% reduction in processing time** and **40% improvement in data quality**.
 
-- Expertise in advanced **PySpark** techniques to efficiently process **10M+ daily records**, improving pipeline performance by **40%**.
+- Proficient in managing **large-scale data integration** using cloud-native ETL pipelines optimized for performance and reliability.
 
 - Experienced in deploying and maintaining **MLOps pipelines** with **MLflow** and **Databricks Model Serving** for seamless **model versioning** and **production readiness**.
 
