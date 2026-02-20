@@ -10,78 +10,17 @@
 
 ## 🧑‍💻 Cloud Data Engineer | Distributed Systems Enthusiast | Databricks Certified
 
-I design and build **scalable, high-performance, cloud-native data platforms** on Azure.
+---
 
-My focus is not just building pipelines —  
-but engineering **reliable, observable, production-grade data systems** that teams can trust.
+## 🧑‍💻 About Me
 
-I specialize in:
-
-- ⚙️ Designing batch & real-time data pipelines  
-- 🚀 Optimizing large-scale Spark workloads  
-- 📡 Streaming architectures with Kafka  
-- 🏗 Implementing Medallion (Bronze–Silver–Gold) architecture  
-- 🤖 Enabling MLOps workflows with MLflow  
+Innovative Data Engineer with hands-on experience in building scalable, cloud-native data pipelines using tools like **Azure Data Factory**, **Databricks**, **Apache Spark**, and **Kafka**.  
+Skilled in optimizing **ETL workflows**, enabling real-time data streaming, and managing **large-scale data integration**.  
+Experienced in **MLOps** with **MLflow**, and known for delivering high-performance solutions in collaborative, cross-functional environments.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🚀 Data Processing
-- Apache Spark (PySpark, Spark SQL)
-- Delta Lake
-- Kafka
-- StreamSets
-
-### ☁️ Cloud & Data Platforms
-- Azure Data Factory  
-- Azure Databricks  
-- Azure Synapse  
-- Azure Data Warehouse  
-
-### 🔧 DevOps & Engineering
-- Docker  
-- Kubernetes  
-- Azure DevOps  
-- GitHub  
-- CI/CD Pipelines  
-
-### 🧠 Programming
-- Python  
-- SQL  
-- Java  
-- Shell Scripting  
-
-### 🤖 MLOps
-- MLflow  
-- DBT  
-
----
-
-## 🧠 Engineering Philosophy
-
-I believe:
-
-> Data only creates value when it is **reliable, scalable, and easy to trust.**
-
-I focus on:
-- Writing modular, reusable data pipelines  
-- Improving performance using partitioning, caching & broadcast joins  
-- Ensuring data quality & observability  
-- Designing systems that scale with business growth  
-
----
-
-## 🚀 Current Focus
-
-- Distributed systems design  
-- Advanced Spark performance tuning  
-- Real-time data processing at scale  
-- Cloud Data Architecture  
-
----
-
-## 🌐 Portfolio
+## 🌐 Visit My Website
 
 <p align="center">
   <a href="https://pvssairam.netlify.app/" target="_blank">
@@ -91,7 +30,7 @@ I focus on:
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:SAIRAM1582003@gmail.com">
@@ -104,10 +43,45 @@ I focus on:
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Skills & Tools
 
-🔜 Coming Soon — Production-grade data engineering case studies.
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![StreamSets](https://img.shields.io/badge/StreamSets-008AD7?style=for-the-badge&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Azure DW](https://img.shields.io/badge/Azure%20DW-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-4DB33D?style=for-the-badge&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194f0?style=for-the-badge&logo=mlflow&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ---
 
-⭐ If you’re interested in cloud-native data platforms, Spark optimization, or distributed systems — explore my repositories and let’s connect.
+## 🚀 Featured Data Engineering Projects
+
+Coming soon...
+
+---
+
+<!--
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairamrockhy&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sairamrockhy&theme=radical" alt="GitHub Summary"/>
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sairamrockhy&custom_title=SAIRAMROCKHY%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true)
+-->
