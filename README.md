@@ -6,12 +6,6 @@
 
 ---
 
-# 👋 Hi, I'm Sairam
-
-## 🧑‍💻 Cloud Data Engineer | Distributed Systems Enthusiast | Databricks Certified
-
----
-
 ## 🧑‍💻 About Me
 
 Innovative Data Engineer with hands-on experience in building scalable, cloud-native data pipelines using tools like **Azure Data Factory**, **Databricks**, **Apache Spark**, and **Kafka**.  
